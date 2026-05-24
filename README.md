@@ -82,7 +82,7 @@ pip install pywebview pyinstaller
 
 ---
 
-## 运行 / Running the Application
+## Running the Application
 
 Minni Password Manager can be launched in two primary modes:
 
