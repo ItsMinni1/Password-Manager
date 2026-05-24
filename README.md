@@ -186,6 +186,7 @@ This project is tailored for **desktop deployment and academic/educational secur
 
 ## Time-Based OTP Seed 
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/61562581-d219-44e2-b6f9-1276269bcdcd" />
+
 ## Logout Functionality
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/fe08ca2d-9dbe-42f7-9331-fb86e4480011" />
 
