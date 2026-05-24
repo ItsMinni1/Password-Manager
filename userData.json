@@ -1,0 +1,23 @@
+{
+    "argon2": {
+        "hash_len": 128,
+        "memory-cost": 2048000,
+        "parallelism": 8,
+        "time-cost": 1
+    },
+    "auth_tag": "QQvJP4c8urSBtVQU5sZxodSWV8HOSqDxzq9vU23RmHs=",
+    "created_at": 1773167237,
+    "mac": "E8Pac9TdhGc2LmEQsozIKzKFrhAXYJojfiGYEhEL414=",
+    "mfa": {
+        "enabled": false,
+        "wrapped_nonce": null,
+        "wrapped_seed": null
+    },
+    "salt": "P8E0HRh5jk3RMpQgktBalQ==",
+    "username": "Minni",
+    "vault": {
+        "ct": "nZ877MTe6OjSTsLabot49WqOw5RKBMb9Gq/qTVHbZQ==",
+        "nonce": "NdSsqfr5mWKwcSXP"
+    },
+    "version": 1
+}
