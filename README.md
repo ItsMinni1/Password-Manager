@@ -109,7 +109,7 @@ Inside the CLI, you can register, login, view, copy passwords directly to your c
 
 ---
 
-## 🧪 Integration & Verification Tests
+## Integration & Verification Tests
 
 Ensure all components and APIs are functioning flawlessly by running the integrated verification scripts:
 
@@ -145,7 +145,7 @@ Once completed, the standalone application can be found in the newly created **`
 
 ---
 
-## ⚠️ Security Notes & Production Limitations
+## Security Notes & Production Limitations
 
 This project is tailored for **desktop deployment and academic/educational security purposes**. When using it, keep the following constraints in mind:
 
