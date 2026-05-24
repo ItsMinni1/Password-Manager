@@ -154,27 +154,36 @@ This project is tailored for **desktop deployment and academic/educational secur
 3.  **In-Memory Session Limits**: Active tokens and MFA steps are kept in-memory (`SESSIONS` and `PENDING_MFA`). High availability, multi-process WSGI hosting, or node failovers will require migrating these structures to database/caching engines (e.g., Redis).
 
 # Screenshots
-
 ## Main Screen
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/79929185-420e-432a-a78e-5e03b044b599" />
+
 ## User Registration
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/f762fdf0-3ce2-4f12-9f2e-b3f626a298a4" />
+
 ## User Login
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/94d00595-bb1c-4299-ac50-1e22419be4f0" />
+
 ## Main Screen
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/40174799-1d37-4b17-9886-922f7f71d342" />
+
 ## Mode A: Deterministic Password Generator
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/ea824005-047f-4a8c-a785-65c22db57461" />
+
 ## Computed Password
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/a0ad9ff2-2d71-4ee1-b56d-fd69891d7655" />
+
 ## Screen for Mode B: Secure Vault Storage
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/59e6d8cf-c6a5-4b3a-83e2-4155a828e059" />
+
 ## Adding an entry to the Vault
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/971b8f1f-5c3b-48fa-ae52-1f4ef5a50047" />
+
 ## Added entry
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/3fb424f6-6266-4953-b81b-f5e52f9bd9a8" />
+
 ## Multi-Factor Authentication Configuration Screen
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/70bbaea0-1185-4056-9306-d4a5717b379b" />
+
 ## Time-Based OTP Seed 
 <img width="1837" height="964" alt="image" src="https://github.com/user-attachments/assets/61562581-d219-44e2-b6f9-1276269bcdcd" />
 ## Logout Functionality
